@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: MyString
+  domain: MyString
+  device_type: MyString
+  country: MyString
+  region: MyString
+  client_name: MyString
+  user_agent: MyString
+  client_os: MyString
+  ip: MyString
+  client_type: MyString
+  recipient: MyString
+  event: MyString
+  timestamp: MyString
+
+two:
+  city: MyString
+  domain: MyString
+  device_type: MyString
+  country: MyString
+  region: MyString
+  client_name: MyString
+  user_agent: MyString
+  client_os: MyString
+  ip: MyString
+  client_type: MyString
+  recipient: MyString
+  event: MyString
+  timestamp: MyString
